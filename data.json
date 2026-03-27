@@ -269,6 +269,16 @@
       "snapshotTitle": "task1",
       "snapshotCourse": "9136 Python (环节)",
       "snapshotTime": 1.5
+    },
+    {
+      "id": "2026-03-27_1774618793013",
+      "date": "2026-03-27",
+      "targetId": "1774618793013",
+      "type": "task",
+      "completed": false,
+      "snapshotTitle": "HD拓展ass1",
+      "snapshotCourse": "9137 导论",
+      "snapshotTime": 1
     }
   ]
 }
