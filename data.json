@@ -275,6 +275,12 @@
       "taskId": "1774618813358",
       "title": "Part2理论文稿",
       "estimatedTime": 2.5
+    },
+    {
+      "id": "1774619254323",
+      "taskId": "1774618813358",
+      "title": "Part2ppt",
+      "estimatedTime": 0.25
     }
   ],
   "dailyRecords": [
