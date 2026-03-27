@@ -103,6 +103,14 @@
       "deadline": "2026-04-01",
       "estimatedTime": 1,
       "createdAt": 1774614546924
+    },
+    {
+      "id": "1774614564587",
+      "courseId": "c2",
+      "title": "新任务",
+      "deadline": "",
+      "estimatedTime": 1,
+      "createdAt": 1774614564587
     }
   ],
   "subtasks": [],
