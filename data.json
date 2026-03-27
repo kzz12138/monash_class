@@ -319,6 +319,16 @@
       "snapshotTitle": "Part1",
       "snapshotCourse": "9137 导论 (环节)",
       "snapshotTime": 0.5
+    },
+    {
+      "id": "2026-03-27_1774619231907",
+      "date": "2026-03-27",
+      "targetId": "1774619231907",
+      "type": "subtask",
+      "completed": false,
+      "snapshotTitle": "Part2代码",
+      "snapshotCourse": "9137 导论 (环节)",
+      "snapshotTime": 2
     }
   ]
 }
