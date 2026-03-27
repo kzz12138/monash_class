@@ -259,5 +259,16 @@
       "estimatedTime": 3
     }
   ],
-  "dailyRecords": []
+  "dailyRecords": [
+    {
+      "id": "2026-03-27_1774618918902",
+      "date": "2026-03-27",
+      "targetId": "1774618918902",
+      "type": "subtask",
+      "completed": false,
+      "snapshotTitle": "task1",
+      "snapshotCourse": "9136 Python (环节)",
+      "snapshotTime": 1.5
+    }
+  ]
 }
