@@ -35,9 +35,9 @@
     {
       "id": "1774614423415",
       "courseId": "c1",
-      "title": "新任务",
-      "deadline": "",
-      "estimatedTime": 1,
+      "title": "预习W5",
+      "deadline": "2026-03-24",
+      "estimatedTime": 1.25,
       "createdAt": 1774614423415
     }
   ],
