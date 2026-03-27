@@ -280,6 +280,12 @@
       "id": "1774619254323",
       "taskId": "1774618813358",
       "title": "Part2ppt",
+      "estimatedTime": 0.5
+    },
+    {
+      "id": "1774619260825",
+      "taskId": "1774618813358",
+      "title": "Part视频",
       "estimatedTime": 0.25
     }
   ],
