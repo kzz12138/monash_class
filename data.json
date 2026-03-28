@@ -113,14 +113,6 @@
       "createdAt": 1774614564587
     },
     {
-      "id": "1774618793013",
-      "courseId": "c4",
-      "title": "HD拓展ass1",
-      "deadline": "2026-03-28",
-      "estimatedTime": 1,
-      "createdAt": 1774618793013
-    },
-    {
       "id": "1774618813358",
       "courseId": "c4",
       "title": "ass1",
@@ -341,7 +333,7 @@
       "date": "2026-03-28",
       "targetId": "1774618793013",
       "type": "task",
-      "completed": false,
+      "completed": true,
       "snapshotTitle": "HD拓展ass1",
       "snapshotCourse": "9137 导论",
       "snapshotTime": 1
