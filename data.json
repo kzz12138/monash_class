@@ -339,16 +339,6 @@
       "snapshotTime": 1
     },
     {
-      "id": "2026-03-28_1774665338239",
-      "date": "2026-03-28",
-      "targetId": "1774665338239",
-      "type": "subtask",
-      "completed": false,
-      "snapshotTitle": "后牙",
-      "snapshotCourse": "9131 Java (环节)",
-      "snapshotTime": 0.5
-    },
-    {
       "id": "2026-03-28_1774665307792",
       "date": "2026-03-28",
       "targetId": "1774665307792",
