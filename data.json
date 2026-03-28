@@ -275,7 +275,7 @@
       "date": "2026-03-28",
       "targetId": "1774618918902",
       "type": "subtask",
-      "completed": true,
+      "completed": false,
       "snapshotTitle": "task1",
       "snapshotCourse": "9136 Python (环节)",
       "snapshotTime": 1.5
@@ -325,7 +325,7 @@
       "date": "2026-03-28",
       "targetId": "1774614564587",
       "type": "task",
-      "completed": true,
+      "completed": false,
       "snapshotTitle": "task AT4",
       "snapshotCourse": "9132 数据库",
       "snapshotTime": 1.5
