@@ -285,46 +285,6 @@
   ],
   "dailyRecords": [
     {
-      "id": "2026-03-27_1774618793013",
-      "date": "2026-03-27",
-      "targetId": "1774618793013",
-      "type": "task",
-      "completed": false,
-      "snapshotTitle": "HD拓展ass1",
-      "snapshotCourse": "9137 导论",
-      "snapshotTime": 1
-    },
-    {
-      "id": "2026-03-27_1774619220918",
-      "date": "2026-03-27",
-      "targetId": "1774619220918",
-      "type": "subtask",
-      "completed": false,
-      "snapshotTitle": "Part1",
-      "snapshotCourse": "9137 导论 (环节)",
-      "snapshotTime": 0.5
-    },
-    {
-      "id": "2026-03-27_1774619231907",
-      "date": "2026-03-27",
-      "targetId": "1774619231907",
-      "type": "subtask",
-      "completed": false,
-      "snapshotTitle": "Part2代码",
-      "snapshotCourse": "9137 导论 (环节)",
-      "snapshotTime": 2
-    },
-    {
-      "id": "2026-03-27_1774619241147",
-      "date": "2026-03-27",
-      "targetId": "1774619241147",
-      "type": "subtask",
-      "completed": false,
-      "snapshotTitle": "Part2理论文稿",
-      "snapshotCourse": "9137 导论 (环节)",
-      "snapshotTime": 2.5
-    },
-    {
       "id": "2026-03-27_1774618931375",
       "date": "2026-03-27",
       "targetId": "1774618931375",
