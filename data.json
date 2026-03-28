@@ -233,14 +233,6 @@
       "createdAt": 1774619142444
     },
     {
-      "id": "1774665307792",
-      "courseId": "c1",
-      "title": "吃饭",
-      "deadline": "2026-03-28",
-      "estimatedTime": 1.25,
-      "createdAt": 1774665307792
-    },
-    {
       "id": "1774665309341",
       "courseId": "c1",
       "title": "刷牙",
@@ -379,7 +371,7 @@
       "date": "2026-03-28",
       "targetId": "1774665307792",
       "type": "task",
-      "completed": false,
+      "completed": true,
       "snapshotTitle": "吃饭",
       "snapshotCourse": "9131 Java",
       "snapshotTime": 1.25
