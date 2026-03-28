@@ -353,7 +353,7 @@
       "date": "2026-03-28",
       "targetId": "1774665333590",
       "type": "subtask",
-      "completed": true,
+      "completed": false,
       "snapshotTitle": "门牙",
       "snapshotCourse": "9131 Java (环节)",
       "snapshotTime": 0.25
@@ -363,7 +363,7 @@
       "date": "2026-03-28",
       "targetId": "1774665307792",
       "type": "task",
-      "completed": true,
+      "completed": false,
       "snapshotTitle": "吃饭",
       "snapshotCourse": "9131 Java",
       "snapshotTime": 1.25
