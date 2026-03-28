@@ -345,16 +345,6 @@
       "snapshotTime": 2
     },
     {
-      "id": "2026-03-28_1774614564587",
-      "date": "2026-03-28",
-      "targetId": "1774614564587",
-      "type": "task",
-      "completed": false,
-      "snapshotTitle": "task AT4",
-      "snapshotCourse": "9132 数据库",
-      "snapshotTime": 1.5
-    },
-    {
       "id": "2026-03-28_1774619021179",
       "date": "2026-03-28",
       "targetId": "1774619021179",
