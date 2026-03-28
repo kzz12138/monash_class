@@ -303,6 +303,16 @@
       "snapshotTitle": "task2",
       "snapshotCourse": "9136 Python (环节)",
       "snapshotTime": 2
+    },
+    {
+      "id": "2026-03-28_1774619220918",
+      "date": "2026-03-28",
+      "targetId": "1774619220918",
+      "type": "subtask",
+      "completed": false,
+      "snapshotTitle": "Part1",
+      "snapshotCourse": "9137 导论 (环节)",
+      "snapshotTime": 0.5
     }
   ]
 }
