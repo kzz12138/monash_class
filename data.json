@@ -291,12 +291,6 @@
       "taskId": "1774618813358",
       "title": "Part视频",
       "estimatedTime": 2.5
-    },
-    {
-      "id": "1774665333590",
-      "taskId": "1774665309341",
-      "title": "门牙",
-      "estimatedTime": 0.25
     }
   ],
   "dailyRecords": [
@@ -375,7 +369,7 @@
       "date": "2026-03-28",
       "targetId": "1774665333590",
       "type": "subtask",
-      "completed": false,
+      "completed": true,
       "snapshotTitle": "门牙",
       "snapshotCourse": "9131 Java (环节)",
       "snapshotTime": 0.25
