@@ -337,16 +337,6 @@
       "snapshotTitle": "HD拓展ass1",
       "snapshotCourse": "9137 导论",
       "snapshotTime": 1
-    },
-    {
-      "id": "2026-03-28_1774665307792",
-      "date": "2026-03-28",
-      "targetId": "1774665307792",
-      "type": "task",
-      "completed": false,
-      "snapshotTitle": "吃饭",
-      "snapshotCourse": "9131 Java",
-      "snapshotTime": 1.25
     }
   ]
 }
