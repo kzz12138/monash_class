@@ -235,9 +235,9 @@
     {
       "id": "1774665307792",
       "courseId": "c1",
-      "title": "新任务",
-      "deadline": "",
-      "estimatedTime": 1,
+      "title": "吃饭",
+      "deadline": "2026-03-28",
+      "estimatedTime": 1.25,
       "createdAt": 1774665307792
     },
     {
