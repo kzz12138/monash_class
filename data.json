@@ -235,12 +235,6 @@
   ],
   "subtasks": [
     {
-      "id": "1774618918902",
-      "taskId": "1774618899157",
-      "title": "task1",
-      "estimatedTime": 1.5
-    },
-    {
       "id": "1774618931375",
       "taskId": "1774618899157",
       "title": "task2",
@@ -289,7 +283,7 @@
       "date": "2026-03-28",
       "targetId": "1774618918902",
       "type": "subtask",
-      "completed": false,
+      "completed": true,
       "snapshotTitle": "task1",
       "snapshotCourse": "9136 Python (环节)",
       "snapshotTime": 1.5
