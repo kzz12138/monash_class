@@ -341,6 +341,16 @@
       "snapshotTitle": "W5部分",
       "snapshotCourse": "9131 Java (环节)",
       "snapshotTime": 4
+    },
+    {
+      "id": "2026-03-30_1774618875653",
+      "date": "2026-03-30",
+      "targetId": "1774618875653",
+      "type": "task",
+      "completed": false,
+      "snapshotTitle": "W5预习",
+      "snapshotCourse": "9137 导论",
+      "snapshotTime": 2.5
     }
   ]
 }
