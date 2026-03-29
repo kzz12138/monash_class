@@ -249,12 +249,6 @@
       "taskId": "1774618813358",
       "title": "Part视频",
       "estimatedTime": 2.5
-    },
-    {
-      "id": "1774786463143",
-      "taskId": "1774618899157",
-      "title": "task3",
-      "estimatedTime": 3
     }
   ],
   "dailyRecords": [
@@ -323,7 +317,7 @@
       "date": "2026-03-29",
       "targetId": "1774786463143",
       "type": "subtask",
-      "completed": false,
+      "completed": true,
       "snapshotTitle": "task3",
       "snapshotCourse": "9136 Python (环节)",
       "snapshotTime": 3
