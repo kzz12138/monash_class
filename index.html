@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Monash把我毁了</title>
+    <!-- 默认使用 🫠 融化脸 Emoji 作为网页图标 -->
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🫠</text></svg>">
     
     <script src="https://cdn.tailwindcss.com"></script>
@@ -169,15 +170,9 @@
                 let updatedSubtasks = newParts.subtasks !== undefined ? newParts.subtasks : dbState.subtasks;
 
                 // --- 修复逻辑：自动删除已完成所有子任务的“空壳”父任务 ---
-                // 获取所有当前存在的子任务的父级 ID 集合
-                const activeParentIds = new Set(updatedSubtasks.map(st => st.taskId));
-                
-                // 找出那些之前有子任务，但现在子任务列表里找不到它们子环节的任务（说明子环节都被勾选删除了）
-                // 这里的逻辑是：如果一个任务曾经被定义为有子环节，且现在其子环节数为0，则清理
                 updatedTasks = updatedTasks.filter(task => {
                     const originalHasSubtasks = dbState.subtasks.some(st => st.taskId === task.id);
                     const nowHasSubtasks = updatedSubtasks.some(st => st.taskId === task.id);
-                    // 如果任务原本有环节，但现在没了，说明全部完成了，触发自动删除
                     if (originalHasSubtasks && !nowHasSubtasks) return false;
                     return true;
                 });
@@ -215,9 +210,20 @@
             }, [dbState]);
 
             const globalTotalTime = courseStats.reduce((acc, c) => acc + c.totalTime, 0);
+            
+            // --- 完成度计算逻辑更新：基于时间权重 ---
             const todaysRecords = Array.isArray(dbState.dailyRecords) ? dbState.dailyRecords.filter(r => r.date === selectedDate) : [];
-            const remainingTime = todaysRecords.filter(r => !r.completed).reduce((acc, r) => acc + (Number(r.snapshotTime) || 0), 0);
-            const completionRate = todaysRecords.length > 0 ? Math.round((todaysRecords.filter(r => r.completed).length / todaysRecords.length) * 100) : 0;
+            
+            const { remainingTime, completionRate } = useMemo(() => {
+                const totalAssignedTime = todaysRecords.reduce((acc, r) => acc + (Number(r.snapshotTime) || 0), 0);
+                const completedTime = todaysRecords.filter(r => r.completed).reduce((acc, r) => acc + (Number(r.snapshotTime) || 0), 0);
+                const leftTime = todaysRecords.filter(r => !r.completed).reduce((acc, r) => acc + (Number(r.snapshotTime) || 0), 0);
+                
+                return {
+                    remainingTime: leftTime,
+                    completionRate: totalAssignedTime > 0 ? Math.round((completedTime / totalAssignedTime) * 100) : 0
+                };
+            }, [todaysRecords]);
 
             const addTask = (courseId) => updateDb({ tasks: [...dbState.tasks, { id: Date.now().toString(), courseId, title: '新任务', deadline: '', estimatedTime: 1.0, createdAt: Date.now() }] });
             const updateTask = (id, data) => updateDb({ tasks: dbState.tasks.map(t => t.id === id ? { ...t, ...data } : t) });
@@ -262,7 +268,7 @@
                     <header className="flex flex-col md:flex-row justify-between items-center mb-10 gap-6">
                         <div className="flex items-center gap-4">
                             <div className="bg-white p-4 rounded-2xl shadow-sm border border-slate-100"><Icon name="Github" size={24} className="text-slate-400" /></div>
-                            <div><h1 className="text-2xl font-black text-slate-900">Monash 把我毁了</h1><p className="text-[10px] font-black uppercase tracking-[0.3em] text-slate-300 italic">Survival Protocol v5.4</p></div>
+                            <div><h1 className="text-2xl font-black text-slate-900">Monash 把我毁了</h1><p className="text-[10px] font-black uppercase tracking-[0.3em] text-slate-300 italic">Survival Protocol v5.4 (Time-Weighted)</p></div>
                         </div>
                         <div className="flex items-center gap-4">
                             <nav className="bg-slate-100/50 p-1.5 rounded-xl border border-slate-100 flex gap-1">
@@ -297,7 +303,7 @@
                                     <div className="bg-white p-6 rounded-3xl shadow-sm border space-y-4">
                                         <p className="text-[10px] font-black text-slate-300 uppercase flex items-center gap-2"><Icon name="Calendar" size={12} />目标日期</p>
                                         <input type="date" className="w-full p-3 bg-slate-50 rounded-xl text-sm font-black outline-none" value={selectedDate} onChange={e => setSelectedDate(e.target.value)} />
-                                        <div className="p-4 bg-slate-900 rounded-2xl text-white"><p className="text-[9px] text-slate-400 font-black mb-1">完成度</p><p className="text-3xl font-black">{completionRate}%</p><div className="w-full bg-slate-800 h-1.5 rounded-full mt-4 overflow-hidden"><div className="bg-emerald-400 h-full transition-all duration-500" style={{width:`${completionRate}%`}} /></div></div>
+                                        <div className="p-4 bg-slate-900 rounded-2xl text-white"><p className="text-[9px] text-slate-400 font-black mb-1">完成度 (按用时)</p><p className="text-3xl font-black">{completionRate}%</p><div className="w-full bg-slate-800 h-1.5 rounded-full mt-4 overflow-hidden"><div className="bg-emerald-400 h-full transition-all duration-500" style={{width:`${completionRate}%`}} /></div></div>
                                         <div className="p-4 bg-white border border-slate-50 rounded-2xl text-center shadow-sm"><p className="text-[9px] text-slate-300 font-black mb-1">今日待办</p><p className="text-3xl font-black text-slate-800">{remainingTime.toFixed(2)}h</p></div>
                                     </div>
                                 </div>
