@@ -317,6 +317,16 @@
       "snapshotTitle": "task AT4",
       "snapshotCourse": "9132 数据库",
       "snapshotTime": 1.5
+    },
+    {
+      "id": "2026-03-29_1774786463143",
+      "date": "2026-03-29",
+      "targetId": "1774786463143",
+      "type": "subtask",
+      "completed": false,
+      "snapshotTitle": "task3",
+      "snapshotCourse": "9136 Python (环节)",
+      "snapshotTime": 3
     }
   ]
 }
