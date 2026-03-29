@@ -153,14 +153,6 @@
       "createdAt": 1774618875653
     },
     {
-      "id": "1774618899157",
-      "courseId": "c3",
-      "title": "ass1",
-      "deadline": "2026-04-02",
-      "estimatedTime": 0,
-      "createdAt": 1774618899157
-    },
-    {
       "id": "1774618965993",
       "courseId": "c3",
       "title": "W1笔记",
@@ -267,12 +259,6 @@
       "taskId": "1774614465483",
       "title": "最终部分",
       "estimatedTime": 5
-    },
-    {
-      "id": "1774786818221",
-      "taskId": "1774618899157",
-      "title": "新环节",
-      "estimatedTime": 0.25
     }
   ],
   "dailyRecords": [
@@ -351,7 +337,7 @@
       "date": "2026-03-29",
       "targetId": "1774786818221",
       "type": "subtask",
-      "completed": false,
+      "completed": true,
       "snapshotTitle": "新环节",
       "snapshotCourse": "9136 Python (环节)",
       "snapshotTime": 0.25
