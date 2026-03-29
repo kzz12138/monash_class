@@ -357,6 +357,16 @@
       "snapshotTitle": "Part2理论文稿",
       "snapshotCourse": "9137 导论 (环节)",
       "snapshotTime": 2.5
+    },
+    {
+      "id": "2026-03-29_1774618939214",
+      "date": "2026-03-29",
+      "targetId": "1774618939214",
+      "type": "subtask",
+      "completed": false,
+      "snapshotTitle": "task3",
+      "snapshotCourse": "9136 Python (环节)",
+      "snapshotTime": 3
     }
   ]
 }
