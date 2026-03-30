@@ -359,6 +359,16 @@
       "snapshotTitle": "Part2理论文稿",
       "snapshotCourse": "9137 导论 (环节)",
       "snapshotTime": 2.5
+    },
+    {
+      "id": "2026-03-31_1774619254323",
+      "date": "2026-03-31",
+      "targetId": "1774619254323",
+      "type": "subtask",
+      "completed": false,
+      "snapshotTitle": "Part2ppt",
+      "snapshotCourse": "9137 导论 (环节)",
+      "snapshotTime": 0.75
     }
   ]
 }
