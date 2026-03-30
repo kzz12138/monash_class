@@ -219,12 +219,6 @@
   ],
   "subtasks": [
     {
-      "id": "1774619231907",
-      "taskId": "1774618813358",
-      "title": "Part2代码",
-      "estimatedTime": 2
-    },
-    {
       "id": "1774619241147",
       "taskId": "1774618813358",
       "title": "Part2理论文稿",
@@ -367,7 +361,7 @@
       "date": "2026-03-30",
       "targetId": "1774619231907",
       "type": "subtask",
-      "completed": false,
+      "completed": true,
       "snapshotTitle": "Part2代码",
       "snapshotCourse": "9137 导论 (环节)",
       "snapshotTime": 2
