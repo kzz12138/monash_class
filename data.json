@@ -345,7 +345,7 @@
       "date": "2026-03-30",
       "targetId": "1774619231907",
       "type": "subtask",
-      "completed": false,
+      "completed": true,
       "snapshotTitle": "Part2代码",
       "snapshotCourse": "9137 导论 (环节)",
       "snapshotTime": 2
