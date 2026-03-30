@@ -369,6 +369,26 @@
       "snapshotTitle": "Part2ppt",
       "snapshotCourse": "9137 导论 (环节)",
       "snapshotTime": 0.75
+    },
+    {
+      "id": "2026-03-31_1774619260825",
+      "date": "2026-03-31",
+      "targetId": "1774619260825",
+      "type": "subtask",
+      "completed": false,
+      "snapshotTitle": "Part视频",
+      "snapshotCourse": "9137 导论 (环节)",
+      "snapshotTime": 2.5
+    },
+    {
+      "id": "2026-03-31_1774614470679",
+      "date": "2026-03-31",
+      "targetId": "1774614470679",
+      "type": "task",
+      "completed": false,
+      "snapshotTitle": "rolling",
+      "snapshotCourse": "9131 Java",
+      "snapshotTime": 2
     }
   ]
 }
