@@ -389,6 +389,16 @@
       "snapshotTitle": "rolling",
       "snapshotCourse": "9131 Java",
       "snapshotTime": 2
+    },
+    {
+      "id": "2026-03-31_1774614423415",
+      "date": "2026-03-31",
+      "targetId": "1774614423415",
+      "type": "task",
+      "completed": false,
+      "snapshotTitle": "预习W5",
+      "snapshotCourse": "9131 Java",
+      "snapshotTime": 1.25
     }
   ]
 }
