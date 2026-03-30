@@ -185,14 +185,6 @@
       "createdAt": 1774619010971
     },
     {
-      "id": "1774619021179",
-      "courseId": "c3",
-      "title": "W5预习",
-      "deadline": "2026-03-30",
-      "estimatedTime": 2,
-      "createdAt": 1774619021179
-    },
-    {
       "id": "1774619129240",
       "courseId": "c2",
       "title": "HD同步课1",
@@ -345,7 +337,7 @@
       "date": "2026-03-30",
       "targetId": "1774619021179",
       "type": "task",
-      "completed": false,
+      "completed": true,
       "snapshotTitle": "W5预习",
       "snapshotCourse": "9136 Python",
       "snapshotTime": 2
