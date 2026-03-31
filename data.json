@@ -369,16 +369,6 @@
       "snapshotTime": 2.5
     },
     {
-      "id": "2026-03-31_1774614470679",
-      "date": "2026-03-31",
-      "targetId": "1774614470679",
-      "type": "task",
-      "completed": false,
-      "snapshotTitle": "rolling",
-      "snapshotCourse": "9131 Java",
-      "snapshotTime": 2
-    },
-    {
       "id": "2026-03-31_1774614423415",
       "date": "2026-03-31",
       "targetId": "1774614423415",
