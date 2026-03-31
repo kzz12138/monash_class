@@ -377,6 +377,16 @@
       "snapshotTitle": "Part视频",
       "snapshotCourse": "9137 导论 (环节)",
       "snapshotTime": 2.5
+    },
+    {
+      "id": "2026-04-01_1774614546924",
+      "date": "2026-04-01",
+      "targetId": "1774614546924",
+      "type": "task",
+      "completed": false,
+      "snapshotTitle": "W5预习",
+      "snapshotCourse": "9132 数据库",
+      "snapshotTime": 1
     }
   ]
 }
