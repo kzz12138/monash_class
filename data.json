@@ -89,14 +89,6 @@
       "createdAt": 1774614541453
     },
     {
-      "id": "1774614546924",
-      "courseId": "c2",
-      "title": "W5预习",
-      "deadline": "2026-04-01",
-      "estimatedTime": 1,
-      "createdAt": 1774614546924
-    },
-    {
       "id": "1774618813358",
       "courseId": "c4",
       "title": "ass1",
@@ -383,7 +375,7 @@
       "date": "2026-04-01",
       "targetId": "1774614546924",
       "type": "task",
-      "completed": false,
+      "completed": true,
       "snapshotTitle": "W5预习",
       "snapshotCourse": "9132 数据库",
       "snapshotTime": 1
