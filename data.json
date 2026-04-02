@@ -89,14 +89,6 @@
       "createdAt": 1774614541453
     },
     {
-      "id": "1774618813358",
-      "courseId": "c4",
-      "title": "ass1",
-      "deadline": "2026-04-02",
-      "estimatedTime": 1,
-      "createdAt": 1774618813358
-    },
-    {
       "id": "1774618837255",
       "courseId": "c4",
       "title": "W1笔记",
@@ -210,12 +202,6 @@
     }
   ],
   "subtasks": [
-    {
-      "id": "1774619260825",
-      "taskId": "1774618813358",
-      "title": "Part视频",
-      "estimatedTime": 2.5
-    },
     {
       "id": "1774786513971",
       "taskId": "1774614465483",
@@ -365,7 +351,7 @@
       "date": "2026-04-01",
       "targetId": "1774619260825",
       "type": "subtask",
-      "completed": false,
+      "completed": true,
       "snapshotTitle": "Part视频",
       "snapshotCourse": "9137 导论 (环节)",
       "snapshotTime": 2.5
