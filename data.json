@@ -385,6 +385,16 @@
       "snapshotTitle": "W2笔记",
       "snapshotCourse": "9136 Python",
       "snapshotTime": 1.25
+    },
+    {
+      "id": "2026-04-09_1774618999625",
+      "date": "2026-04-09",
+      "targetId": "1774618999625",
+      "type": "task",
+      "completed": false,
+      "snapshotTitle": "W3笔记",
+      "snapshotCourse": "9136 Python",
+      "snapshotTime": 1.25
     }
   ]
 }
