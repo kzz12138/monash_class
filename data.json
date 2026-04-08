@@ -365,6 +365,16 @@
       "snapshotTitle": "W5预习",
       "snapshotCourse": "9132 数据库",
       "snapshotTime": 1
+    },
+    {
+      "id": "2026-04-09_1774618965993",
+      "date": "2026-04-09",
+      "targetId": "1774618965993",
+      "type": "task",
+      "completed": false,
+      "snapshotTitle": "W1笔记",
+      "snapshotCourse": "9136 Python",
+      "snapshotTime": 1.25
     }
   ]
 }
