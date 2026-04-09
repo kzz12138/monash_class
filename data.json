@@ -129,14 +129,6 @@
       "createdAt": 1774618875653
     },
     {
-      "id": "1774618965993",
-      "courseId": "c3",
-      "title": "W1笔记",
-      "deadline": "",
-      "estimatedTime": 1.25,
-      "createdAt": 1774618965993
-    },
-    {
       "id": "1774618987233",
       "courseId": "c3",
       "title": "W2笔记",
@@ -379,7 +371,7 @@
       "date": "2026-04-09",
       "targetId": "1774618965993",
       "type": "task",
-      "completed": false,
+      "completed": true,
       "snapshotTitle": "W1笔记",
       "snapshotCourse": "9136 Python",
       "snapshotTime": 1.25
