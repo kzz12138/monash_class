@@ -475,6 +475,16 @@
       "snapshotTitle": "题目整理",
       "snapshotCourse": "9136 Python",
       "snapshotTime": 2
+    },
+    {
+      "id": "2026-04-21_1776757220591",
+      "date": "2026-04-21",
+      "targetId": "1776757220591",
+      "type": "task",
+      "completed": false,
+      "snapshotTitle": "预习W7",
+      "snapshotCourse": "9132 数据库",
+      "snapshotTime": 2
     }
   ]
 }
