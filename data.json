@@ -161,14 +161,6 @@
       "createdAt": 1774619142444
     },
     {
-      "id": "1774666337256",
-      "courseId": "c3",
-      "title": "模拟考测试",
-      "deadline": "2026-04-13",
-      "estimatedTime": 2,
-      "createdAt": 1774666337256
-    },
-    {
       "id": "1774851229990",
       "courseId": "c3",
       "title": "W5笔记",
