@@ -527,6 +527,16 @@
       "snapshotTitle": "最终部分",
       "snapshotCourse": "9131 Java (环节)",
       "snapshotTime": 5
+    },
+    {
+      "id": "2026-04-22_1774614470679",
+      "date": "2026-04-22",
+      "targetId": "1774614470679",
+      "type": "task",
+      "completed": false,
+      "snapshotTitle": "rolling",
+      "snapshotCourse": "9131 Java",
+      "snapshotTime": 5.5
     }
   ]
 }
