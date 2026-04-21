@@ -537,6 +537,16 @@
       "snapshotTitle": "rolling",
       "snapshotCourse": "9131 Java",
       "snapshotTime": 5.5
+    },
+    {
+      "id": "2026-04-22_1776757565283",
+      "date": "2026-04-22",
+      "targetId": "1776757565283",
+      "type": "task",
+      "completed": false,
+      "snapshotTitle": "ass2",
+      "snapshotCourse": "9136 Python",
+      "snapshotTime": 5
     }
   ]
 }
