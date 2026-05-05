@@ -297,7 +297,14 @@
       "createdAt": 1777974873647
     }
   ],
-  "subtasks": [],
+  "subtasks": [
+    {
+      "id": "1777974879250",
+      "taskId": "1777974873647",
+      "title": "新环节",
+      "estimatedTime": 0.25
+    }
+  ],
   "dailyRecords": [
     {
       "id": "2026-03-28_1774618918902",
