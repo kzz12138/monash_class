@@ -287,6 +287,14 @@
       "deadline": "",
       "estimatedTime": 1,
       "createdAt": 1777974854319
+    },
+    {
+      "id": "1777974873647",
+      "courseId": "c1",
+      "title": "新任务",
+      "deadline": "",
+      "estimatedTime": 1,
+      "createdAt": 1777974873647
     }
   ],
   "subtasks": [],
