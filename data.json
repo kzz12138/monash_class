@@ -321,6 +321,12 @@
       "taskId": "1777974873647",
       "title": "Part4",
       "estimatedTime": 5
+    },
+    {
+      "id": "1777974917665",
+      "taskId": "1777974873647",
+      "title": "Part5",
+      "estimatedTime": 0.25
     }
   ],
   "dailyRecords": [
