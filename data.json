@@ -33,14 +33,6 @@
       "createdAt": 1774614413726
     },
     {
-      "id": "1774614465483",
-      "courseId": "c1",
-      "title": "ass1",
-      "deadline": "2026-04-07",
-      "estimatedTime": 5,
-      "createdAt": 1774614465484
-    },
-    {
       "id": "1774614470679",
       "courseId": "c1",
       "title": "rolling",
@@ -289,14 +281,7 @@
       "createdAt": 1776757565283
     }
   ],
-  "subtasks": [
-    {
-      "id": "1774786522363",
-      "taskId": "1774614465483",
-      "title": "最终部分",
-      "estimatedTime": 5
-    }
-  ],
+  "subtasks": [],
   "dailyRecords": [
     {
       "id": "2026-03-28_1774618918902",
