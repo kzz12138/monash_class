@@ -225,6 +225,12 @@
       "taskId": "1779094902648",
       "title": "P2-2",
       "estimatedTime": 2
+    },
+    {
+      "id": "1779094996465",
+      "taskId": "1779094902648",
+      "title": "P2-3",
+      "estimatedTime": 0.25
     }
   ],
   "dailyRecords": [
