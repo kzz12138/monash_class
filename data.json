@@ -559,6 +559,16 @@
       "snapshotTitle": "Part2",
       "snapshotCourse": "9131 Java (环节)",
       "snapshotTime": 5
+    },
+    {
+      "id": "2026-05-18_1779094913389",
+      "date": "2026-05-18",
+      "targetId": "1779094913389",
+      "type": "subtask",
+      "completed": false,
+      "snapshotTitle": "P1-2",
+      "snapshotCourse": "9136 Python (环节)",
+      "snapshotTime": 2
     }
   ]
 }
