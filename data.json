@@ -9,22 +9,6 @@
       "createdAt": 1774614470679
     },
     {
-      "id": "1774618864801",
-      "courseId": "c4",
-      "title": "W4笔记",
-      "deadline": "",
-      "estimatedTime": 2,
-      "createdAt": 1774618864801
-    },
-    {
-      "id": "1774618875653",
-      "courseId": "c4",
-      "title": "W5笔记",
-      "deadline": "",
-      "estimatedTime": 1.5,
-      "createdAt": 1774618875653
-    },
-    {
       "id": "1774619129240",
       "courseId": "c2",
       "title": "HD同步课1",
