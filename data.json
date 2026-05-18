@@ -195,6 +195,12 @@
       "taskId": "1779094902648",
       "title": "新环节",
       "estimatedTime": 1
+    },
+    {
+      "id": "1779094917527",
+      "taskId": "1779094902648",
+      "title": "新环节",
+      "estimatedTime": 0.5
     }
   ],
   "dailyRecords": [
