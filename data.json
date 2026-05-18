@@ -293,12 +293,6 @@
       "taskId": "1779094751404",
       "title": "数据库操作复习",
       "estimatedTime": 4
-    },
-    {
-      "id": "1779096256103",
-      "taskId": "1779094751404",
-      "title": "闭环复习",
-      "estimatedTime": 1
     }
   ],
   "dailyRecords": [
@@ -577,7 +571,7 @@
       "date": "2026-05-18",
       "targetId": "1779096256103",
       "type": "subtask",
-      "completed": false,
+      "completed": true,
       "snapshotTitle": "闭环复习",
       "snapshotCourse": "9132 数据库 (环节)",
       "snapshotTime": 1
