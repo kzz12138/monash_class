@@ -575,6 +575,16 @@
       "snapshotTitle": "闭环复习",
       "snapshotCourse": "9132 数据库 (环节)",
       "snapshotTime": 1
+    },
+    {
+      "id": "2026-05-19_1777974879250",
+      "date": "2026-05-19",
+      "targetId": "1777974879250",
+      "type": "subtask",
+      "completed": false,
+      "snapshotTitle": "Part1",
+      "snapshotCourse": "9131 Java (环节)",
+      "snapshotTime": 5
     }
   ]
 }
