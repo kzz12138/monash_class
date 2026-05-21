@@ -223,12 +223,6 @@
       "estimatedTime": 5
     },
     {
-      "id": "1779094913389",
-      "taskId": "1779094902648",
-      "title": "P1-2",
-      "estimatedTime": 2
-    },
-    {
       "id": "1779094917527",
       "taskId": "1779094902648",
       "title": "P1-3",
@@ -611,7 +605,7 @@
       "date": "2026-05-21",
       "targetId": "1779094913389",
       "type": "subtask",
-      "completed": false,
+      "completed": true,
       "snapshotTitle": "P1-2",
       "snapshotCourse": "9136 Python (环节)",
       "snapshotTime": 2
@@ -633,6 +627,16 @@
       "type": "subtask",
       "completed": false,
       "snapshotTitle": "P1-4",
+      "snapshotCourse": "9136 Python (环节)",
+      "snapshotTime": 4
+    },
+    {
+      "id": "2026-05-21_1779094939936",
+      "date": "2026-05-21",
+      "targetId": "1779094939936",
+      "type": "subtask",
+      "completed": false,
+      "snapshotTitle": "P1-5",
       "snapshotCourse": "9136 Python (环节)",
       "snapshotTime": 4
     }
