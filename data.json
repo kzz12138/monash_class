@@ -605,6 +605,16 @@
       "snapshotTitle": "第二次考试复习",
       "snapshotCourse": "9132 数据库",
       "snapshotTime": 4
+    },
+    {
+      "id": "2026-05-21_1779094913389",
+      "date": "2026-05-21",
+      "targetId": "1779094913389",
+      "type": "subtask",
+      "completed": false,
+      "snapshotTitle": "P1-2",
+      "snapshotCourse": "9136 Python (环节)",
+      "snapshotTime": 2
     }
   ]
 }
