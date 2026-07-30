@@ -1,14 +1,6 @@
 {
   "tasks": [
     {
-      "id": "1779095956413",
-      "courseId": "c4",
-      "title": "备考test1",
-      "deadline": "",
-      "estimatedTime": 10,
-      "createdAt": 1779095956413
-    },
-    {
       "id": "1779095967063",
       "courseId": "c4",
       "title": "A2",
