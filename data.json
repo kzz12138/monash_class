@@ -1,14 +1,6 @@
 {
   "tasks": [
     {
-      "id": "1774614470679",
-      "courseId": "c1",
-      "title": "rolling",
-      "deadline": "2026-05-12",
-      "estimatedTime": 8,
-      "createdAt": 1774614470679
-    },
-    {
       "id": "1774619129240",
       "courseId": "c2",
       "title": "HD同步课1",
