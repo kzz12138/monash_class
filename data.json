@@ -17,14 +17,6 @@
       "createdAt": 1774619142444
     },
     {
-      "id": "1777974873647",
-      "courseId": "c1",
-      "title": "a2",
-      "deadline": "",
-      "estimatedTime": 1,
-      "createdAt": 1777974873647
-    },
-    {
       "id": "1779094668073",
       "courseId": "c1",
       "title": "HD同步课1",
@@ -170,36 +162,6 @@
     }
   ],
   "subtasks": [
-    {
-      "id": "1777974895436",
-      "taskId": "1777974873647",
-      "title": "Part2",
-      "estimatedTime": 5
-    },
-    {
-      "id": "1777974903099",
-      "taskId": "1777974873647",
-      "title": "Part3",
-      "estimatedTime": 5
-    },
-    {
-      "id": "1777974910885",
-      "taskId": "1777974873647",
-      "title": "Part4",
-      "estimatedTime": 5
-    },
-    {
-      "id": "1777974917665",
-      "taskId": "1777974873647",
-      "title": "Part5",
-      "estimatedTime": 5
-    },
-    {
-      "id": "1777974924063",
-      "taskId": "1777974873647",
-      "title": "Part6",
-      "estimatedTime": 5
-    },
     {
       "id": "1779094917527",
       "taskId": "1779094902648",
