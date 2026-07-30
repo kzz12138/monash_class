@@ -1,22 +1,6 @@
 {
   "tasks": [
     {
-      "id": "1774619142444",
-      "courseId": "c2",
-      "title": "HD同步课2",
-      "deadline": "",
-      "estimatedTime": 1,
-      "createdAt": 1774619142444
-    },
-    {
-      "id": "1779094751404",
-      "courseId": "c2",
-      "title": "第二次考试复习",
-      "deadline": "",
-      "estimatedTime": 5,
-      "createdAt": 1779094751404
-    },
-    {
       "id": "1779094795203",
       "courseId": "c2",
       "title": "A2",
@@ -180,12 +164,6 @@
       "id": "1779095020188",
       "taskId": "1779094902648",
       "title": "P2-7",
-      "estimatedTime": 4
-    },
-    {
-      "id": "1779096233085",
-      "taskId": "1779094751404",
-      "title": "数据库操作复习",
       "estimatedTime": 4
     }
   ],
