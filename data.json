@@ -1,14 +1,6 @@
 {
   "tasks": [
     {
-      "id": "1779095047960",
-      "courseId": "c3",
-      "title": "test3复习",
-      "deadline": "",
-      "estimatedTime": 5,
-      "createdAt": 1779095047960
-    },
-    {
       "id": "1779095189648",
       "courseId": "c3",
       "title": "日常8",
