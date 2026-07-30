@@ -1,14 +1,6 @@
 {
   "tasks": [
     {
-      "id": "1779094902648",
-      "courseId": "c3",
-      "title": "A2",
-      "deadline": "",
-      "estimatedTime": 20,
-      "createdAt": 1779094902648
-    },
-    {
       "id": "1779095047960",
       "courseId": "c3",
       "title": "test3复习",
@@ -23,14 +15,6 @@
       "deadline": "",
       "estimatedTime": 1.5,
       "createdAt": 1779095093207
-    },
-    {
-      "id": "1779095179808",
-      "courseId": "c3",
-      "title": "日常7",
-      "deadline": "",
-      "estimatedTime": 1.5,
-      "createdAt": 1779095179808
     },
     {
       "id": "1779095189648",
@@ -97,26 +81,7 @@
       "createdAt": 1779095967063
     }
   ],
-  "subtasks": [
-    {
-      "id": "1779095008584",
-      "taskId": "1779094902648",
-      "title": "P2-5",
-      "estimatedTime": 2
-    },
-    {
-      "id": "1779095014840",
-      "taskId": "1779094902648",
-      "title": "P2-6",
-      "estimatedTime": 4
-    },
-    {
-      "id": "1779095020188",
-      "taskId": "1779094902648",
-      "title": "P2-7",
-      "estimatedTime": 4
-    }
-  ],
+  "subtasks": [],
   "dailyRecords": [
     {
       "id": "2026-03-28_1774618918902",
