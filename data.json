@@ -33,14 +33,6 @@
       "createdAt": 1779094684205
     },
     {
-      "id": "1779094716897",
-      "courseId": "c1",
-      "title": "HD期中同步课",
-      "deadline": "",
-      "estimatedTime": 2,
-      "createdAt": 1779094716897
-    },
-    {
       "id": "1779094736007",
       "courseId": "c1",
       "title": "HD期末同步课",
