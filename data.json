@@ -7,6 +7,14 @@
       "deadline": "",
       "estimatedTime": 1,
       "createdAt": 1785393712267
+    },
+    {
+      "id": "1785393757672",
+      "courseId": "c1",
+      "title": "课程笔记",
+      "deadline": "",
+      "estimatedTime": 3,
+      "createdAt": 1785393757672
     }
   ],
   "subtasks": [],
