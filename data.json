@@ -1,14 +1,6 @@
 {
   "tasks": [
     {
-      "id": "1779095413643",
-      "courseId": "c3",
-      "title": "HD同步课3",
-      "deadline": "",
-      "estimatedTime": 2,
-      "createdAt": 1779095413643
-    },
-    {
       "id": "1779095926271",
       "courseId": "c4",
       "title": "HD同步拓展课2（未开始）",
