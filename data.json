@@ -171,12 +171,6 @@
   ],
   "subtasks": [
     {
-      "id": "1777974879250",
-      "taskId": "1777974873647",
-      "title": "Part1",
-      "estimatedTime": 5
-    },
-    {
       "id": "1777974895436",
       "taskId": "1777974873647",
       "title": "Part2",
