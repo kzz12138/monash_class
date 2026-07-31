@@ -50,5 +50,16 @@
     }
   ],
   "subtasks": [],
-  "dailyRecords": []
+  "dailyRecords": [
+    {
+      "id": "2026-07-31_1785472956898",
+      "date": "2026-07-31",
+      "targetId": "1785472956898",
+      "type": "task",
+      "completed": false,
+      "snapshotTitle": "studio1课后小结",
+      "snapshotCourse": "5125 it研究",
+      "snapshotTime": 1
+    }
+  ]
 }
