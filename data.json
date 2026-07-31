@@ -39,14 +39,6 @@
       "deadline": "",
       "estimatedTime": 1,
       "createdAt": 1785470314792
-    },
-    {
-      "id": "1785472956898",
-      "courseId": "c2",
-      "title": "studio1课后小结",
-      "deadline": "",
-      "estimatedTime": 1,
-      "createdAt": 1785472956898
     }
   ],
   "subtasks": [],
@@ -56,7 +48,7 @@
       "date": "2026-07-31",
       "targetId": "1785472956898",
       "type": "task",
-      "completed": false,
+      "completed": true,
       "snapshotTitle": "studio1课后小结",
       "snapshotCourse": "5125 it研究",
       "snapshotTime": 1
