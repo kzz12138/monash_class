@@ -60,6 +60,16 @@
       "snapshotTitle": "studio1课后小结",
       "snapshotCourse": "5125 it研究",
       "snapshotTime": 1
+    },
+    {
+      "id": "2026-07-31_1785393712267",
+      "date": "2026-07-31",
+      "targetId": "1785393712267",
+      "type": "task",
+      "completed": false,
+      "snapshotTitle": "vscode配置",
+      "snapshotCourse": "5136 软件工程",
+      "snapshotTime": 1
     }
   ]
 }
