@@ -70,6 +70,16 @@
       "snapshotTitle": "vscode配置",
       "snapshotCourse": "5136 软件工程",
       "snapshotTime": 1
+    },
+    {
+      "id": "2026-07-31_1785484092137",
+      "date": "2026-07-31",
+      "targetId": "1785484092137",
+      "type": "task",
+      "completed": false,
+      "snapshotTitle": "完成lab题目",
+      "snapshotCourse": "5137 数据库",
+      "snapshotTime": 1
     }
   ]
 }
