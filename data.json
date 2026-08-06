@@ -72,6 +72,16 @@
       "snapshotTitle": "完成lab题目",
       "snapshotCourse": "5137 数据库",
       "snapshotTime": 1
+    },
+    {
+      "id": "2026-08-06_1785393767580",
+      "date": "2026-08-06",
+      "targetId": "1785393767580",
+      "type": "task",
+      "completed": false,
+      "snapshotTitle": "workshop1课前预习",
+      "snapshotCourse": "5057 项目管理",
+      "snapshotTime": 2
     }
   ]
 }
